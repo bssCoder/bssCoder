@@ -51,8 +51,8 @@ I'm Bhawani Shankar Sarswat, a Computer Science and Engineering student at IIT D
 ## 📫 Get in Touch
 
 - **Email:** [bshankarsarswat8239@gmail.com](mailto:bshankarsarswat8239@gmail.com)
-- **LinkedIn:** [bhawani-shankar-sarswat](https://www.linkedin.com/in/bhawani-shankar-sarswat)
-- **Portfolio:** [Portfolio](https://your-portfolio-link)
+- **LinkedIn:** [bhawani-shankar-sarswat](https://www.linkedin.com/in/bhawani-shankar-sarswat-45921b19b/)
+- **Portfolio:** [Portfolio](https://portfolio-bhawani.vercel.app/)
 
 ## 🤝 Contributing
 
