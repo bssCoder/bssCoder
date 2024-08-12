@@ -24,6 +24,15 @@ I'm Bhawani Shankar Sarswat, a Computer Science and Engineering student at IIT D
 - **Features:** Code review tools, peer reviews, code comments, and real-time collaboration.
 - **Source code available on GitHub:** [Code Catalyst Repository](https://github.com/bssCoder/code-catalyst)
 
+### 4. Quote Generator App
+**Tech Stack:** React, Node.js, Express, Tailwind CSS  
+**Description:** The Quote Generator App is a web application that allows users to generate and display random quotes. It features a stylish interface and fetches quotes from an external API.  
+- **Features:** 
+  - Generate random quotes with a single click.
+  - Display quotes with the author's name.
+  - Loading spinner during API requests.
+  - Error handling for failed requests.
+- **Source code available on GitHub:** [Quote Generator Repository](https://github.com/bssCoder/quote-generator)
 
 ## 🔧 Technical Skills
 
@@ -42,11 +51,9 @@ I'm Bhawani Shankar Sarswat, a Computer Science and Engineering student at IIT D
 [![Cloudinary](https://img.shields.io/badge/-Cloudinary-ef6f00?style=flat-square&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 [![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
-
 **Version Control:**  
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-
 
 ## 📫 Get in Touch
 
@@ -64,13 +71,9 @@ Contributions are always welcome! If you have any suggestions or want to collabo
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
 
----
-
 ## 📜 License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 ## 🌱 Let's Grow Together
 
