@@ -32,7 +32,7 @@ I'm Bhawani Shankar Sarswat, a Computer Science and Engineering student at IIT D
   - Display quotes with the author's name.
   - Loading spinner during API requests.
   - Error handling for failed requests.
-- **Source code available on GitHub:** [InspireBot Repository](https://github.com/bssCoder/inspirebot)
+- **Source code available on GitHub:** [InspireBot Repository](https://github.com/bssCoder/quote-generator)
 
 ## 🔧 Technical Skills
 
