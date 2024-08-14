@@ -10,7 +10,7 @@ I'm Bhawani Shankar Sarswat, a Computer Science and Engineering student at IIT D
 **Tech Stack:** React.js, MongoDB, Express.js, Node.js, Tailwind CSS, Nodemailer, JWT, OAuth2.0, Redux, Cloudinary  
 **Description:** Tech Tutor provides a seamless and interactive learning experience for students and a platform for instructors to showcase their expertise.  
 - **Features:** Secure data storage, study progress tracking, and personalized ratings.
-- **Source code available on GitHub:** [Tech Tutor Repository](https://github.com/bssCoder/tech-tutor)
+- **Source code available on GitHub:** [Tech Tutor Repository](https://github.com/bssCoder/TechTutor)
 
 ### 2. Wellness Manager
 **Tech Stack:** React.js, Node.js, Express.js, Redux, MongoDB, Cloudinary, Formspree, JWT  
