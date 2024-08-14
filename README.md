@@ -16,13 +16,13 @@ I'm Bhawani Shankar Sarswat, a Computer Science and Engineering student at IIT D
 **Tech Stack:** React.js, Node.js, Express.js, Redux, MongoDB, Cloudinary, Formspree, JWT  
 **Description:** A healthcare app facilitating appointment booking, navigation, profile management, and query submission, ensuring a smooth user experience.  
 - **Features:** Admin functionalities for doctor application approvals, user management, and secure data storage.
-- **Source code available on GitHub:** [Wellness Manager Repository](https://github.com/bssCoder/wellness-manager)
+- **Source code available on GitHub:** [Wellness Manager Repository](https://github.com/bssCoder/Wellness_Manager)
 
 ### 3. Code Catalyst
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Cloudinary  
 **Description:** A platform to facilitate code review, collaboration, and enhancement within development teams.  
 - **Features:** Code review tools, peer reviews, code comments, and real-time collaboration.
-- **Source code available on GitHub:** [Code Catalyst Repository](https://github.com/bssCoder/code-catalyst)
+- **Source code available on GitHub:** [Code Catalyst Repository](https://github.com/bssCoder/Code_Catalyst)
 
 ### 4. InspireBot
 **Tech Stack:** React, Node.js, Express, Tailwind CSS  
