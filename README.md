@@ -24,15 +24,6 @@ I'm Bhawani Shankar Sarswat, a Computer Science and Engineering student at IIT D
 - **Features:** Code review tools, peer reviews, code comments, and real-time collaboration.
 - **Source code available on GitHub:** [Code Catalyst Repository](https://github.com/bssCoder/Code_Catalyst)
 
-### 4. InspireBot
-**Tech Stack:** React, Node.js, Express, Tailwind CSS  
-**Description:** InspireBot is a web application that allows users to generate and display random quotes. It features a stylish interface and fetches quotes from an external API.  
-- **Features:** 
-  - Generate random quotes with a single click.
-  - Display quotes with the author's name.
-  - Loading spinner during API requests.
-  - Error handling for failed requests.
-- **Source code available on GitHub:** [InspireBot Repository](https://github.com/bssCoder/quote-generator)
 
 ## 🔧 Technical Skills
 
